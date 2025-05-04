@@ -1,8 +1,5 @@
-# movies_queries.py
-
 import mysql.connector
 
-# Connect to the database
 db = mysql.connector.connect(
     host="localhost",
     user="root",      
